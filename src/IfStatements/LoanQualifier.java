@@ -30,6 +30,7 @@ public class LoanQualifier {
                         "years with current employer.");
             }
         }
+        //will execute if the first condition is not fulfilled
         else{
             System.out.print("You need to earn a minimum of " + requiredSalary + " to qualify for this loan");
         }
