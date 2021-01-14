@@ -6,7 +6,7 @@ import java.util.Scanner;
 if sales is greater than 10 pay a bonus of $250 per sales difference (Send congratulatory message)
 if sales is less than 10, deduct $100 per sales short (Inform employees number of sales short)
 */
-public class SalaryCalculator2 {
+public class WeeklySalaryCalculator {
     public static void main(String args[]){
         //Initialize known values
         int salaryWeekly = 1000;
