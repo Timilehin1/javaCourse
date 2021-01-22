@@ -1,4 +1,4 @@
-package IfStatements;
+package ifStatements;
 //Display a letter grade for a student based on their score
 
 import java.util.Scanner;
